@@ -1,4 +1,6 @@
 # RewardsListing
 Framework used: React Native with Expo 
-npm install
-npm start
+
+To Satrt Application:
+1. npm install
+2. npm start
