@@ -1,2 +1,2 @@
 # RewardsListing
-Framework used: React Native and Expo 
+Framework used: React Native with Expo 
